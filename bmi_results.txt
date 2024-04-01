@@ -1,18 +1,9 @@
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
-BMI: 0.00, Status: Underweight
+BMI: 25.65, Status: Overweight
+BMI: 21.51, Status: Normal weight
+BMI: 29.30, Status: Overweight
+BMI: 23.73, Status: Normal weight
+BMI: 17.02, Status: Underweight
+BMI: 19.47, Status: Normal weight
+BMI: 15.84, Status: Underweight
+BMI: 17.31, Status: Underweight
+BMI: 33.15, Status: Obese
